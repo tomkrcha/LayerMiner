@@ -1,4 +1,8 @@
-// ExportLayerStyle.jsx - Written by Tom Krcha, @tomkrcha
+// ExportLayerStyle.jsx
+// Written by Tom Krcha, @tomkrcha, www.tomkrcha.com
+// Public Domain.
+// NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
+
 #target photoshop
 // I am using 'JSON in JavaScript' for formatting the data http://www.json.org/js.html
 #include "utils/json2.js"
